@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Home } from "./Components/Home";
-import { Artists } from "./Components/Artists";
+import Artists from "./Components/Artists";
 // import { Songs } from "./Components/Songs";
 import Songs from "./Components/Songs";
 import { CheckPath } from "./Components/CheckPath";

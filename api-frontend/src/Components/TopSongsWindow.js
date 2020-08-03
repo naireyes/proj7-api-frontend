@@ -12,13 +12,13 @@ const Styles = styled.div`
   .content {
     background: #1b262c;
     color: white;
-    padding: 2rem 2em 2em 4em;
+    padding: 2em;
     width: 300;
   }
 
-  h5 {
-    font-size: 1em;
-    margin-left: 25%;
+  h3 {
+    font-size: 1.3em;
+    margin-left: 15%;
   }
 `;
 
@@ -28,16 +28,16 @@ export const TopSongsWindow = () => (
       <div className="content">
         <h5>Top 10 Songs</h5>
         <ol>
-          <li>Test - Song of the day</li>
-          <li>Test - Song of the day</li>
-          <li>Test - Song of the day</li>
-          <li>Test - Song of the day</li>
-          <li>Test - Song of the day</li>
-          <li>Test - Song of the day</li>
-          <li>Test - Song of the day</li>
-          <li>Test - Song of the day</li>
-          <li>Test - Song of the day</li>
-          <li>Test - Song of the day</li>
+          <li>the 1</li>
+          <li>Happy Anywhere</li>
+          <li>Nobody's Love</li>
+          <li>Savage Love</li>
+          <li>One Margarita</li>
+          <li>Blinding Lights</li>
+          <li>exile</li>
+          <li>Patience</li>
+          <li>Roses - Imanbek Remix</li>
+          <li>cardigan</li>
         </ol>
       </div>
     </div>

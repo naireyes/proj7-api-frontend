@@ -12,11 +12,11 @@ const Styles = styled.div`
   .content {
     background: #1b262c;
     color: white;
-    padding: 2rem 2em 2em 4em;
+    padding: 2rem;
   }
 
-  h5 {
-    font-size: 1em;
+  h3 {
+    font-size: 1.3em;
     margin-left: 35%;
   }
   ul {
@@ -29,7 +29,7 @@ export const Links = () => (
   <Styles>
     <div className="block">
       <div className="content">
-        <h5>Links</h5>
+        <h3>Links</h3>
         <ul>
           <li>
             <a href="www.musixmatch.com">MusixMatch</a>
